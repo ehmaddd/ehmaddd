@@ -1,16 +1,34 @@
-### Hi there 👋
+**Hi there 👋**
 
-<!--
-**ehmaddd/ehmaddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>I'm Muhammad Ahmad Saeed, from Pakistan</b>
+<p align="left">I am a passionate Full-stack developer having extensive CS background and good enough working experience in web development. Currently, I'm enrolled in Microverse, an online web development learning school. Since February 2023, I'm engaged in pair-programming, Code review and Writing quality-assured world-class code. </p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on RoR + React projects.
+- 🌱 I’m currently learning API Endpoints using RoR.
+- 👯 I’m looking to collaborate on Full Stack programming.
+- 💬 Ask me about RoR, React, PostgreSQL
+- ⚡ Fun fact: I have 32 teeth and 1 nose.
+
+<hr>
+
+**Stack:**
+
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+
+<hr>
+
+<b>Reach me out!</b>
+
+[![Twitter Badge](https://img.shields.io/badge/-TWITTER-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ehmaddd_pk)](https://twitter.com/ehmaddd_pk) 
+[![Mail Badge](https://img.shields.io/badge/-FACEBOOK-e74c3c?style=flat&labelColor=e74c3c&logo=facebook&logoColor=white)](https://www.facebook.com/ehmaddd) 
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehmaddd/) [![Mail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ehmaddd@gmail.com)
