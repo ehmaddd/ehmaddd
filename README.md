@@ -4,6 +4,8 @@
 <p align="left">I am a passionate Full-stack developer having extensive CS background and good enough working experience in web development. Currently, I'm enrolled in Microverse, an online web development learning school. Since February 2023, I'm engaged in pair-programming, Code review and Writing quality-assured world-class code. </p>
 
 <hr>
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<hr>
 
 - 🔭 I’m currently working on RoR + React projects.
 - 🌱 I’m currently learning API Endpoints using RoR.
