@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning API Endpoints using RoR.
 - 👯 I’m looking to collaborate on Full Stack programming.
 - 💬 Ask me about RoR, React, PostgreSQL
-- ⚡ Fun fact: I have 32 teeth and 1 nose.
+- ⚡ Fun fact: My dentist told me I still have one milk tooth among my 32s.
 
 <hr>
 
@@ -26,7 +26,17 @@
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
+
 <hr>
+
+**Skills:**
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
+<hr>
+
 
 <b>Reach me out!</b>
 
