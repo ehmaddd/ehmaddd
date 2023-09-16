@@ -36,11 +36,11 @@
 
 **Linters:**
 
-![RuboCop Badge](https://img.shields.io/badge/Rubocop-%20Ruby/Rails-green?style=for-the-badge)
-![ESLint Badge](https://img.shields.io/badge/ESLint-%20JavaScipt-blue?style=for-the-badge)
-![JSHint Badge](https://img.shields.io/badge/JSHint-%20JavaScript-yellow?style=for-the-badge)
-![Prettier Badge](https://img.shields.io/badge/Prettier-%20Formatting-green?style=for-the-badge)
-![stylelint Badge](https://img.shields.io/badge/stylelint-%20Styling-blue?style=for-the-badge)
+![RuboCop Badge](https://img.shields.io/badge/Rubocop-green?style=for-the-badge)
+![ESLint Badge](https://img.shields.io/badge/ESLint-blue?style=for-the-badge)
+![JSHint Badge](https://img.shields.io/badge/JSHint-yellow?style=for-the-badge)
+![Prettier Badge](https://img.shields.io/badge/Prettier-green?style=for-the-badge)
+![stylelint Badge](https://img.shields.io/badge/stylelint-blue?style=for-the-badge)
 
 
 <hr>
