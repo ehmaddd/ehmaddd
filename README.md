@@ -16,30 +16,31 @@
 
 **Languages:**
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-3C99DC?style=for-the-badge&logo=css3&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-593D88?style=for-the-badge&logo=html5&logoColor=white)
 
 
 <hr>
 
 **Stack:**
 
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Badge](https://img.shields.io/badge/React-CC0000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Node js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-blue?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <hr>
 
 **Linters:**
 
-![RuboCop Badge](https://img.shields.io/badge/Rubocop-green?style=for-the-badge)
-![ESLint Badge](https://img.shields.io/badge/ESLint-blue?style=for-the-badge)
+![RuboCop Badge](https://img.shields.io/badge/Rubocop-339933?style=for-the-badge)
+![ESLint Badge](https://img.shields.io/badge/ESLint-green?style=for-the-badge)
 ![JSHint Badge](https://img.shields.io/badge/JSHint-yellow?style=for-the-badge)
-![Prettier Badge](https://img.shields.io/badge/Prettier-green?style=for-the-badge)
+![Prettier Badge](https://img.shields.io/badge/Prettier-CC0000?style=for-the-badge)
 ![stylelint Badge](https://img.shields.io/badge/stylelint-blue?style=for-the-badge)
 
 
@@ -54,7 +55,14 @@
 
 <hr>
 
+**Database:**
 
+![MySQL Badge](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite Badge](https://img.shields.io/badge/SQLite-green?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+<hr>
 
 **Skills:**
 
