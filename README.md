@@ -14,20 +14,47 @@
 
 <hr>
 
+**Languages:**
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-3C99DC?style=for-the-badge&logo=css3&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+<hr>
+
 **Stack:**
 
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+
+<hr>
+
+**Linters:**
+
+![RuboCop Badge](https://img.shields.io/badge/Rubocop-%20Ruby/Rails-green?style=for-the-badge)
+![ESLint Badge](https://img.shields.io/badge/ESLint-%20JavaScipt-blue?style=for-the-badge)
+![JSHint Badge](https://img.shields.io/badge/JSHint-%20JavaScript-yellow?style=for-the-badge)
+![Prettier Badge](https://img.shields.io/badge/Prettier-%20Formatting-green?style=for-the-badge)
+![stylelint Badge](https://img.shields.io/badge/stylelint-%20Styling-blue?style=for-the-badge)
 
 
 <hr>
+
+**Testing:**
+
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![RSpec Badge](https://img.shields.io/badge/RSpec-red?style=for-the-badge)
+![FactoryBot Badge](https://img.shields.io/badge/FactoryBot-blue?style=for-the-badge)
+
+
+<hr>
+
+
 
 **Skills:**
 
