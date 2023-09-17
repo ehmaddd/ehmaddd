@@ -16,14 +16,10 @@
 
 **Languages:**
 
-
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-3C99DC?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-593D88?style=for-the-badge&logo=html5&logoColor=white)
-
-
-<hr>
 
 **Stack:**
 
@@ -33,8 +29,6 @@
 ![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-blue?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<hr>
-
 **Linters:**
 
 ![RuboCop Badge](https://img.shields.io/badge/Rubocop-339933?style=for-the-badge)
@@ -43,26 +37,17 @@
 ![Prettier Badge](https://img.shields.io/badge/Prettier-CC0000?style=for-the-badge)
 ![stylelint Badge](https://img.shields.io/badge/stylelint-blue?style=for-the-badge)
 
-
-<hr>
-
 **Testing:**
 
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![RSpec Badge](https://img.shields.io/badge/RSpec-red?style=for-the-badge)
 ![FactoryBot Badge](https://img.shields.io/badge/FactoryBot-blue?style=for-the-badge)
 
-
-<hr>
-
 **Database:**
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-green?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-<hr>
 
 **Skills:**
 
