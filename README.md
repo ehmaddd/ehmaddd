@@ -29,13 +29,11 @@
 ![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-blue?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Linters:**
+**Database:**
 
-![RuboCop Badge](https://img.shields.io/badge/Rubocop-339933?style=for-the-badge)
-![ESLint Badge](https://img.shields.io/badge/ESLint-green?style=for-the-badge)
-![JSHint Badge](https://img.shields.io/badge/JSHint-yellow?style=for-the-badge)
-![Prettier Badge](https://img.shields.io/badge/Prettier-CC0000?style=for-the-badge)
-![stylelint Badge](https://img.shields.io/badge/stylelint-blue?style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite Badge](https://img.shields.io/badge/SQLite-green?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Testing:**
 
@@ -43,11 +41,13 @@
 ![RSpec Badge](https://img.shields.io/badge/RSpec-red?style=for-the-badge)
 ![FactoryBot Badge](https://img.shields.io/badge/FactoryBot-blue?style=for-the-badge)
 
-**Database:**
+**Linters:**
 
-![MySQL Badge](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite Badge](https://img.shields.io/badge/SQLite-green?style=for-the-badge&logo=sqlite&logoColor=white)
+![RuboCop Badge](https://img.shields.io/badge/Rubocop-339933?style=for-the-badge)
+![ESLint Badge](https://img.shields.io/badge/ESLint-green?style=for-the-badge)
+![JSHint Badge](https://img.shields.io/badge/JSHint-yellow?style=for-the-badge)
+![Prettier Badge](https://img.shields.io/badge/Prettier-CC0000?style=for-the-badge)
+![stylelint Badge](https://img.shields.io/badge/stylelint-blue?style=for-the-badge)
 
 **Skills:**
 
