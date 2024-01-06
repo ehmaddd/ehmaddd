@@ -17,14 +17,15 @@
 **Languages:**
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
-![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-3C99DC?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-593D88?style=for-the-badge&logo=html5&logoColor=white)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 **Stack:**
 
 ![React Badge](https://img.shields.io/badge/React-CC0000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-blue?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=bootstrap&logoColor=white)
