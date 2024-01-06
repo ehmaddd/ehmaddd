@@ -1,6 +1,6 @@
 <h1>Hi 👋  I'm Muhammad Ahmad Saeed</h1>
 
-<p align="left">I am a passionate <b>Full-stack developer</b> having extensive Computer Science background and good enough working experience in web development. Currently, I'm enrolled in Microverse, an online web development learning school. Since February 2023, I'm engaged in pair-programming, Code review and Writing quality-assured world-class code. </p>
+<p align="left">Enthusiast Computer Science graduate with a  decade-long commitment to programming education and over 2 years of professional experience in Web Development with ES6, ReactJS and NextJS. Proficient in code crafting, code review and mentoring with 90% success rate in project delivery</p>
 
 <hr>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
