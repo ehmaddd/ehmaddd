@@ -1,6 +1,6 @@
 <h1>Hi 👋  I'm Muhammad Ahmad Saeed</h1>
 
-<p align="left">Enthusiast Computer Science graduate with a  decade-long commitment to programming education and over 2 years of professional experience in Web Development with ES6, ReactJS and NextJS. Proficient in code crafting, code review and mentoring with 90% success rate in project delivery</p>
+<p align="left">Enthusiast Computer Science graduate with over 2 years of professional experience in Web Development with ES6, ReactJS and NextJS and a  decade-long commitment to programming education. Proficient in code crafting, code review and mentoring with 90% success rate in project delivery</p>
 
 <hr>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
