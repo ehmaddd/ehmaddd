@@ -6,11 +6,11 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <hr>
 
-- 🔭 I’m currently working on RoR + React projects.
-- 🌱 I’m currently learning API Endpoints using RoR.
-- 👯 I’m looking to collaborate on Full Stack programming.
-- 💬 Ask me about RoR, React, PostgreSQL
-- ⚡ Fun fact: My dentist told me I still have one milk tooth among my 32s.
+- 🔭 I’m currently working on NextJS projects
+- 🌱 I’m currently learning OAuth2.0
+- 👯 I’m looking to collaborate on Frontend projects
+- 💬 Ask me about ReactJS, RTK, and NextJS
+- ⚡ Fun fact: My dentist told me I still have one milk tooth among my 32s
 
 <hr>
 
