@@ -1,4 +1,8 @@
-<h1>Hi 👋  I'm Muhammad Ahmad Saeed</h1>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ahmad Saeed;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
 <p align="left">Enthusiast Computer Science graduate with over 2 years of professional experience in Web Development with ES6, ReactJS and NextJS and a  decade-long commitment to programming education. Proficient in code crafting, code review and mentoring with 90% success rate in project delivery</p>
 
