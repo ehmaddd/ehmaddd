@@ -1,15 +1,15 @@
 <h1>Hi. I'm Muhammad Ahmad Saeed</h1>
 
-<p align="left">Enthusiast Computer Science graduate with over 2 years of professional experience in Web Development with ES6, ReactJS and NextJS and a  decade-long commitment to programming education. Proficient in code crafting, code review and mentoring with 90% success rate in project delivery</p>
+<p align="left">Enthusiast Computer Science graduate with professional experience in Web Development using ES6, ReactJS, NextJS for Front-end while Node.js, Ruby on Rails, Express.js for backend which led to proficiency in code crafting, code review and mentoring with 90% success rate in project delivery. A decade-long commitment to mentoring and educating young programmers</p>
 
 <hr>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <hr>
 
 - 🔭 I’m currently working on NextJS projects
-- 🌱 I’m currently learning OAuth2.0
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Frontend projects
-- 💬 Ask me about ReactJS, RTK, and NextJS
+- 💬 Ask me about ReactJS, NextJS and ExpressJS
 - ⚡ Fun fact: My dentist told me I still have one milk tooth among my 32s
 
 <hr>
