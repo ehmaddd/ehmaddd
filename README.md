@@ -1,6 +1,8 @@
 <h1>Hi. I'm Muhammad Ahmad Saeed</h1>
 
-<p align="left">Enthusiast Computer Science graduate with professional experience in Web Development using ES6, ReactJS, NextJS for Front-end while Node.js, Ruby on Rails, Express.js for backend which led to proficiency in code crafting, code review and mentoring with 90% success rate in project delivery. A decade-long commitment to mentoring and educating young programmers</p>
+<p align="left">Full Stack Web Developer with Masters Degree in IT, and specialize in ReactJS, ES6, CSS3, as well as NodeJS & ExpressJS. Recently, at Tech Logans, contributed to a project completion rate exceeding 90% and improved program retention by 20% while mentoring at Microverse. Currently at Immentia, successfully delivered over a dozen projects and have a proven track record of client satisfaction, showcasing my dedication and expertise in web development.
+
+</p>
 
 <hr>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
