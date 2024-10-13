@@ -8,10 +8,10 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <hr>
 
-- 🔭 I’m currently working on NextJS projects
+- 🔭 I’m currently working on ReactJS, NodeJS & ExpressJS projects
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Frontend projects
-- 💬 Ask me about ReactJS, NextJS and ExpressJS
+- 💬 Ask me about ReactJS and ExpressJS
 - ⚡ Fun fact: My dentist told me I still have one milk tooth among my 32s
 
 <hr>
